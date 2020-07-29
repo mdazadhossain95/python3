@@ -1,0 +1,1 @@
+print("Chittagong".strip('ong'))
