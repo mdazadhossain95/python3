@@ -5,8 +5,12 @@
       <w>aeiou</w>
       <w>azad</w>
       <w>barishal</w>
+      <w>bgcolor</w>
+      <w>compcolor</w>
       <w>dili</w>
+      <w>exitbutton</w>
       <w>fainalset</w>
+      <w>fgcolor</w>
       <w>gmtime</w>
       <w>hossain</w>
       <w>imedla</w>
@@ -15,12 +19,15 @@
       <w>jabberwpck</w>
       <w>kentish</w>
       <w>kumilla</w>
+      <w>mainwindow</w>
       <w>mayhen</w>
       <w>mdaza</w>
       <w>melda</w>
       <w>metallica</w>
       <w>nightflight</w>
       <w>norwegin</w>
+      <w>padx</w>
+      <w>parablola</w>
       <w>pargentage</w>
       <w>parsentage</w>
       <w>pinin</w>
@@ -32,6 +39,7 @@
       <w>thisdict</w>
       <w>twon</w>
       <w>walth</w>
+      <w>yscrollcommand</w>
     </words>
   </dictionary>
 </component>
