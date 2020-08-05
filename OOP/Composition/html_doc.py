@@ -20,7 +20,6 @@ class DocType(Tag):
 
 
 class Head(Tag):
-
     def __init__(self, title=None):
         super().__init__('head', '')
         if title:
